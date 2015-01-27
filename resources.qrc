@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>shaders/parallax-mapping/parallax1.frag</file>
+        <file>shaders/parallax-mapping/parallax1.vert</file>
+        <file>shaders/parallax-mapping/parallax2.frag</file>
+        <file>shaders/parallax-mapping/parallax2.vert</file>
+        <file>shaders/parallax-mapping/parallax3.frag</file>
+        <file>shaders/parallax-mapping/parallax3.vert</file>
+        <file>shaders/parallax-mapping/parallax0.frag</file>
+        <file>shaders/parallax-mapping/parallax0.vert</file>
+        <file>textures/rockwall/rockwall.png</file>
+        <file>textures/rockwall/rockwall_height.png</file>
+        <file>textures/rockwall/rockwall_normal.png</file>
+        <file>textures/rockwall/rockwall_relief.png</file>
+        <file>textures/wood/wood.jpg</file>
+        <file>textures/wood/wood_height.png</file>
+        <file>textures/wood/wood_normal.png</file>
+        <file>textures/wood/wood_relief.png</file>
+        <file>textures/rock/rock.jpg</file>
+        <file>textures/rock/rock_relief.png</file>
+        <file>textures/brick/brick.jpg</file>
+        <file>textures/brick/brick_relief.png</file>
+    </qresource>
+</RCC>

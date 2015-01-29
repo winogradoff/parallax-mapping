@@ -99,8 +99,6 @@ private:
     // Инициализация текстуры
     void setTexture();
 
-//    void changeShaderProgram();
-
     // Инициализация освещения
     void initializeLight();
 

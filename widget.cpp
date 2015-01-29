@@ -8,7 +8,7 @@
 Widget::Widget(QWidget *parent) : QWidget(parent), ui(new Ui::Widget)
 {
     ui->setupUi( this );
-    this->setWindowTitle( "Виноградов Иван — Курсовая — Parallax mapping" );
+    this->setWindowTitle( "Parallax mapping" );
 
     // Спрятать FPS и TPS по-умолчанию
     this->ui->label_fps->setVisible(false);
